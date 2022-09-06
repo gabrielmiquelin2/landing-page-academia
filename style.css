@@ -156,3 +156,7 @@ main{
 .btns button:hover:before{
    width: 100%;
 }
+
+@media (max-width:785px){
+  
+}
